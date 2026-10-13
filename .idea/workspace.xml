@@ -10,6 +10,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="CSS File" />
         <option value="HTML File" />
       </list>
     </option>
@@ -37,12 +38,19 @@
     "codeWithMe.voiceChat.enabledByDefault": "false",
     "git-widget-placeholder": "main",
     "javascript.preferred.runtime.type.id": "node",
+    "last_opened_file_path": "C:/Users/arthu/OneDrive - Hogeschool VIVES/Documenten/GitHub/web development/labo 3/opdracht 11",
+    "list.type.of.created.stylesheet": "CSS",
     "node.js.detected.package.jshint": "true",
     "node.js.selected.package.jshint": "",
     "nodejs_package_manager_path": "npm",
     "onboarding.tips.debug.path": "C:/Users/arthu/OneDrive - Hogeschool VIVES/Documenten/GitHub/web development/src/main.js"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\arthu\OneDrive - Hogeschool VIVES\Documenten\GitHub\web development\labo 3\opdracht 11" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -60,7 +68,8 @@
       <workItem from="1790703530481" duration="3190000" />
       <workItem from="1790757039198" duration="2461000" />
       <workItem from="1791205475180" duration="1246000" />
-      <workItem from="1791300242365" duration="8369000" />
+      <workItem from="1791300242365" duration="10156000" />
+      <workItem from="1791912985026" duration="6239000" />
     </task>
     <servers />
   </component>
